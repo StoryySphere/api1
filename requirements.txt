@@ -1,0 +1,6 @@
+paramiko
+pyngrok
+Flask
+pytz
+python-telegram-bot
+pymongo
